@@ -13,9 +13,17 @@
 达观数据提供了一批长文本数据和分类信息，结合当下最先进的NLP和人工智能技术，深入分析文本内在结构和语义信息，构建文本分类模型，实现精准分类。
 
 ### 数据集
-https://pan.baidu.com/s/13IMDPMz0rf8kM1JAea53uQ
 
-password: y6m4
+在微信公众号：机器学习社区后台，回复：达观文本处理大赛数据
+
+![image](https://user-images.githubusercontent.com/76510785/233755858-0750c799-3328-40ba-8fe7-5b2ede7cab01.png)
+
+### 技术交流
+
+前沿技术资讯、算法技术交流、求职内推、算法竞赛、职场面试经验交流(校招、社招、实习)等，与 10000+来自港大、北大、清华、中科院、CMU、腾讯、百度、微软等名校名企开发者互动交流~
+
+![image](https://user-images.githubusercontent.com/76510785/233755874-bab91ca7-92b1-48a3-a6f9-631ce75b0f94.png)
+
 
 ### 解决方案：
 
